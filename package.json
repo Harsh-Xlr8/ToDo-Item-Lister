@@ -7,7 +7,7 @@
   },
   "author": "Harsh Tiwari",
   "license": "ISC",
-  "description": "",
+  "description": "## To practice Tailwind CSS and DOM",
   "devDependencies": {
     "tailwindcss": "^3.4.9"
   }
